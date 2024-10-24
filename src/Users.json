@@ -1,0 +1,121 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name":"Ahmed",
+      "title": "Team Leader",
+      "type": "Full-Time",
+      "address": "New Cairo",
+      "img":"team-01.png",
+      "gender":"Male",
+      "salary": "$70K - $80K",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "2",
+      "name":"Fatma",
+      "title": "Human Resources",
+      "gender":"Femal",
+      "type": "Full-Time",
+      "address": "New Cairo",
+      "img":"team-02.png",
+      "salary": "$70K - $80K",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "3",
+      "name":"Ayman",
+      "title": "Automation Testing",
+      "type": "Full-Time",
+      "gender":"Male",
+      "img":"team-03.png",
+      "address": "New Cairo",
+      "salary": "$70K - $80K",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "4",
+      "name":"Assma",
+      "title": "Back End Developer",
+      "type": "Full-Time",
+      "address": "New Cairo",
+      "salary": "$70K - $80K",
+      "img":"team-04.png",
+      "gender":"Femal",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "5",
+      "name":"Reaham",
+      "title": "ICT",
+      "type": "Full-Time",
+      "img":"team-05.png",
+      "gender":"Femal",
+      "address": "New Cairo",
+      "salary": "$70K - $80K",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "6",
+      "name":"Khaled",
+      "title": "UX, UI desinger",
+      "type": "Full-Time",
+      "gender":"Male",
+      "address": "New Cairo",
+      "salary": "$70K - $80K",
+      "company": "DepoWeb",
+      "img":"team-01.png",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "7",
+      "name":"Moahemd",
+      "title": "Front End Derveloper",
+      "type": "Full-Time",
+      "address": "New Cairo",
+      "salary": "$70K - $80K",
+      "gender":"Male",
+      "company": "DepoWeb",
+      "img":"team-03.png",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "8",
+      "name":"Ayaa",
+      "title": "Seales",
+      "type": "Full-Time",
+      "address": "New Cairo",
+      "salary": "$70K - $80K",
+      "img":"team-02.png",
+      "gender":"Femal",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    },
+    {
+      "id": "9",
+      "name":"Hadeer",
+      "title": "Acountent",
+      "gender":"Femal",
+      "type": "Full-Time",
+      "address": "New Cairo",
+      "img":"team-04.png",
+      "salary": "$70K - $80K",
+      "company": "DepoWeb",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    }
+  ]
+}
