@@ -10,6 +10,8 @@
     "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "start": "react-scripts start",
+    "heroku-postbuild": "npm run build && npm install --prefix server",
     "preview": "vite preview",
     "server": "json-server --watch src/Users.json --port 8000"
   },
